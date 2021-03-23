@@ -1,0 +1,21 @@
+{
+  "name": "lionsays-keepcoding",
+  "version": "1.0.0",
+  "description": "a lion that reminds you to Always Be Learning, Always be Building and Code Code Code",
+  "main": "dist/index.js",
+  "types": "index.d.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orama254/lionsays-keepcoding.git"
+  },
+  "keywords": [],
+  "author": "Rama Ochieng - (ramadevsign)",
+  "license": "ISC"
+}
